@@ -1,0 +1,26 @@
+@charset "utf-8";
+body{
+    margin: 0px;
+}
+table {
+    margin: 100px 0px 0px 500px;
+}
+.otrang {
+    background-color: white;
+    width: 60px;
+    height: 60px;
+}
+.oden {
+    background-color: gray;
+    width: 60px;
+    height: 60px;
+}
+.hinh {
+    width: 40px;
+    height: 40px;
+    padding: 0px 0px 0px 10px;
+}
+h1{
+    margin: 50px 0px 0px 650px;
+}
+
